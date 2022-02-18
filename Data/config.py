@@ -1,1 +1,1 @@
-TOKEN = '5152597247:AAHhRezQPDCDk-FdFjQuU4LyskUDpwUitZQ'
+TOKEN = '' # Сюда нужно ввести свой токен API телеграм бота
