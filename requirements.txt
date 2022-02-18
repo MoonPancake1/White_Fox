@@ -1,0 +1,12 @@
+aiogram
+aiohttp
+aiosignal
+async-timeout
+attrs
+fake-useragent
+requests
+
+
+
+
+
